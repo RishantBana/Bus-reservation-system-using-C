@@ -39,13 +39,21 @@ A **simple Bus Reservation System** implemented in C. This console-based applica
 
 1. Upon launching the program, you'll see a welcome message and a menu with options to:
 
-    **- View Bus List (Option 1)
+    - View Bus List (Option 1)
     - Book Tickets (Option 2)
     - Cancel Booking (Option 3)
     - Display Bus Status (Option 4)
-    - Exit (Option 5)**
+    - Exit (Option 5)
       
 2. Select an option by entering the corresponding number.
 
 3. Follow the prompts to complete your desired action.
 
+---
+
+# 💡 Example Usage
+
+- To view available buses, select option 1.
+- To book tickets, select option 2, choose a bus, enter the number of tickets, and provide passenger names and seat numbers.
+- To cancel a booking, select option 3 and specify the bus and seat number.
+- To check the booking status, select option 4 and enter the bus number.
