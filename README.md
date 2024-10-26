@@ -32,7 +32,6 @@ A **simple Bus Reservation System** implemented in C. This console-based applica
 3. Run the program: Execute the compiled program:
    ```
    ./bus_reservation
-
 ---
 
 ## 🎮 Usage
