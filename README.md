@@ -57,3 +57,13 @@ A **simple Bus Reservation System** implemented in C. This console-based applica
 - To book tickets, select option 2, choose a bus, enter the number of tickets, and provide passenger names and seat numbers.
 - To cancel a booking, select option 3 and specify the bus and seat number.
 - To check the booking status, select option 4 and enter the bus number.
+
+---
+
+## 📜 License
+This project is open-source and available for any use.
+
+---
+
+## 🙏 Acknowledgments
+Inspired by various online resources and examples of reservation systems.
