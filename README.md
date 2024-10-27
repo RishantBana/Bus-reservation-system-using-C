@@ -24,7 +24,7 @@ A **simple Bus Reservation System** implemented in C. This console-based applica
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/bus-reservation-system.git
+   git clone https://github.com/RishantBana/bus-reservation-system.git
    cd bus-reservation-system
 2. **Compile the program**: Make sure you have a C compiler installed (e.g., GCC). Use the following command to compile:
    ```
